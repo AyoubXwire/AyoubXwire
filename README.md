@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ayoub Benabid
-- 👀 I’m a full stack web developer
+- 👀 I’m software engineer
 - 🤘🏻 I mostly work with JavaScript/TypeScript 
 - 📬 You can reach me on my [Linkedin](https://www.linkedin.com/in/ayoub-benabid-9b175a135/) or my [Twitter](https://twitter.com/Ayoub_Himself)
